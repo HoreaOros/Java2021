@@ -1,0 +1,13 @@
+    private static char symbolFromOpCode(char opCode) {
+        char[] opCodes = {'a', 's', 'm', 'd'};
+        char[] symbols = {'+', '-', '*', '/'};
+        char symbol = ' ';
+        for(int index = 0; index < opCodes.length; index++) {
+            if(opCode == opCodes[index]) {
+                symbol = symbols[index];
+                break;
+            }
+        }
+
+        return symbol;
+    }

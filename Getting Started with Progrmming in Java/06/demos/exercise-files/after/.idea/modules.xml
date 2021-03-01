@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcEngine/CalcEngine.iml" filepath="$PROJECT_DIR$/CalcEngine/CalcEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideCommandLineExample/SlideCommandLineExample.iml" filepath="$PROJECT_DIR$/SlideCommandLineExample/SlideCommandLineExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideReturnValueExample/SlideReturnValueExample.iml" filepath="$PROJECT_DIR$/SlideReturnValueExample/SlideReturnValueExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideShowSumExample/SlideShowSumExample.iml" filepath="$PROJECT_DIR$/SlideShowSumExample/SlideShowSumExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideSwapExample/SlideSwapExample.iml" filepath="$PROJECT_DIR$/SlideSwapExample/SlideSwapExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/after.iml" filepath="$PROJECT_DIR$/.idea/after.iml" />
+    </modules>
+  </component>
+</project>
