@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcEngine/CalcEngine.iml" filepath="$PROJECT_DIR$/CalcEngine/CalcEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidesMoreInheritance/SlidesMoreInheritance.iml" filepath="$PROJECT_DIR$/SlidesMoreInheritance/SlidesMoreInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/after.iml" filepath="$PROJECT_DIR$/.idea/after.iml" />
+    </modules>
+  </component>
+</project>

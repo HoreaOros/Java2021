@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercise-files/after/CalcEngine/CalcEngine.iml" filepath="$PROJECT_DIR$/exercise-files/after/CalcEngine/CalcEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-files/after/SlidesStaticImport/SlidesStaticImport.iml" filepath="$PROJECT_DIR$/exercise-files/after/SlidesStaticImport/SlidesStaticImport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-files/after/SlidesStaticMembers/SlidesStaticMembers.iml" filepath="$PROJECT_DIR$/exercise-files/after/SlidesStaticMembers/SlidesStaticMembers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-files/before/before.iml" filepath="$PROJECT_DIR$/exercise-files/before/before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demos.iml" filepath="$PROJECT_DIR$/.idea/demos.iml" />
+    </modules>
+  </component>
+</project>
