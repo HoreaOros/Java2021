@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="singleton">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/singleton/out/production/singleton/derbyclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/singleton/out/production/singleton/derby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
